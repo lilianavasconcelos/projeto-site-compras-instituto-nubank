@@ -1,0 +1,76 @@
+*{
+    font-family: roboto sans-serif;
+}
+footer{
+    background-color: #90ee90;
+    text-align: center;
+       
+}
+
+
+.quem-somos{
+    text-align: center;
+    font-weight: bold;
+    color: #404143;
+}
+
+
+.h5-quem-somos{
+    text-align: center;
+    font-style: italic;
+    color: #006400;
+}
+
+.title-carousel{
+    color: #000000;
+    font-weight: bolder;
+}
+
+.subtitle-carousel{
+    color:#000000;;
+}
+
+
+.text-muted{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.bi-facebook{
+    margin-right: 0.5rem;
+    color:#404143;
+}
+
+.bi-linkedin{
+    margin-left: 0.5rem;
+    color:#404143;
+}
+
+.bi-instagram{
+    color:#404143;
+}
+
+.card-footer{
+    background-color: #4CAF50;
+}
+
+.logo-quem-somos{
+    width: 150px;
+    height: 150px;
+}
+
+.rodapeIcone{
+    color:#404143;
+}
+
+.rodapeIconeCopy{
+    color:#404143;
+    padding-right: 0.2rem;
+}
+
+.tituloProdutos{
+    padding-left: 0.5rem;
+    text-align: left;
+}
+
